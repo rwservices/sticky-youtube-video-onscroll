@@ -1,5 +1,5 @@
 === Sticky Youtube Video Onscroll ===
-Contributors: Aarambha Themes
+Contributors: aarambhathemes
 Tags: video, sticky video 
 Requires at least: 5.7
 Tested up to: 6.7
